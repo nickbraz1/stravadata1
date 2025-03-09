@@ -26,6 +26,7 @@ This project focuses on various key metrics, including total miles, average hear
 ### 3. Average Heart Rate Over Time
 - My heart rate data shows a relatively stable trend, with a slight decrease after 2021.
 - This may indicate improved endurance and efficiency over time.
+- My heart rate has gone down over time, but my sample size in **2019 and 2025** is not large enough to draw strong conclusions.
 
 ![Average Heart Rate](heart.png)
 
@@ -38,6 +39,7 @@ This project focuses on various key metrics, including total miles, average hear
 ### 5. Weekly Running Volume
 - Examining my highest-mileage weeks, I found that I consistently surpassed **80+ miles per week** during peak training blocks.
 - Identifying these high-mileage weeks is crucial for evaluating training effectiveness and potential injury risks.
+- During this period, I was training for a **10K race**, which requires a strong aerobic base, making high mileage essential for endurance and race performance.
 
 ![Weekly Running Volume](weeks.png)
 
@@ -50,6 +52,7 @@ This project focuses on various key metrics, including total miles, average hear
 ### 7. Running by Day of the Week
 - Sundays have the highest average mileage, likely due to long runs.
 - Weekday mileage is more evenly distributed, with slight variations.
+- Weekly mileage does not include **daily doubles**, but rather an average of two runs. This means that the reported mileage is **twice as high on Mondays, Wednesdays, and Fridays**, when double sessions are typically scheduled.
 
 ![Running by Day of the Week](weekday.png)
 
